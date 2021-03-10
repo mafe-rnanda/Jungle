@@ -35,4 +35,9 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Stripe
 
 ## Screenshots
-![img](url)
+![home-page](https://github.com/mafe-rnanda/Jungle/blob/master/doc/home-page.png?raw=true)
+![product-details](https://github.com/mafe-rnanda/Jungle/blob/master/doc/product-details-page.png?raw=true)
+![register-page](https://github.com/mafe-rnanda/Jungle/blob/master/doc/register-page.png?raw=true)
+![ready-to-checkout-cart](https://github.com/mafe-rnanda/Jungle/blob/master/doc/cart-ready-for-checkout.png?raw=true)
+![empty-cart](https://github.com/mafe-rnanda/Jungle/blob/master/doc/empty-cart.png?raw=true)
+![admin-products-page](https://github.com/mafe-rnanda/Jungle/blob/master/doc/admin-product-page.png?raw=true)
