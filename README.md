@@ -2,6 +2,14 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+### App features include:
+- User login and registration with basic authentication
+- Admin basic authorization add/edit products and categories, as well as to access a dashboard page
+- Display "sold out" items when quantity hits 0
+- Users can add/remove items from their cart
+- If cart is empty, user should not be able to access the cart or proceed with payment
+- Users are able to checkout with secure payment
+
 
 ## Setup
 
@@ -25,3 +33,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+![img](url)
